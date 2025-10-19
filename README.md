@@ -1,5 +1,3 @@
-# Ignore This
-
 TL;DR: the first line of `.gitignore` should be:
 
 ```
